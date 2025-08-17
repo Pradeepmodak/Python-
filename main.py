@@ -20,7 +20,7 @@
 
 # v = 34j
 
-# print(type(v))
+# print(type(c))
 
 
 
@@ -103,18 +103,17 @@
 # print(45 <= 45)
 
 
-# print(ord("A"))
+# print(ord('A'))
 # print(ord("B"))
 
 # print("ABC" > "ACD")
-
-# print("A" > 34)
+# print(ord('A') > 34)
 
 # print(12 >20 and 123 > 100 and 34 == 34 and 45 < 90)
 
 # print(12 !=12 or 23 ==45 or 67 == 56 or 10 > 5)
 
-# print(not 12 == 12)
+# print(not( 12 == 12))
 
 #IF else 
 
